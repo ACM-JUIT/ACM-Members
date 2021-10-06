@@ -27,5 +27,12 @@ export const membersData = [
       github: "",
       linkedin: "",
     },
+	 {
+      name: "Alisha Siddiqui",
+      quote: "member",
+      insta: "https://www.instagram.com/aswritessss/",
+      github: "https://github.com/aswritessss",
+      website: "https://sites.google.com/view/aswritoons/content-3",
+    },
     
   ];
