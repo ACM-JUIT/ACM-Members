@@ -9,6 +9,7 @@
   background: #364de3;
   z-index: 0;
   display: flex;
+  flex-direction: column;
   align-items: flex-start;
   -ms-overflow-style: none;
 }
@@ -18,7 +19,7 @@
 
 .main-title {
   color: white;
-  font-size: 12vmin;
+  font-size: 6.5vw;
   font-weight: bold;
   font-family: 'Poppins', sans-serif;
   text-transform: uppercase;
@@ -27,11 +28,11 @@
 
 .second-title {
   color: white;
-  font-size: 3vmin;
+  font-size: 2vw;
   font-weight: bold;
   font-family: 'Poppins', sans-serif;
    position: relative;
-   top: -50px;
+   top: -3.5vw;
 }
 
 .blob {
@@ -50,15 +51,7 @@
    padding-left: 50px;
 }
 
-.contacts li a {
-   color: #bdbdbd;
-   text-decoration: none;
-   font-family: 'Poppins', sans-serif;
-}
 
-.contacts li a:hover {
-   color: #fff;
-}
 
 @keyframes move {
   0%   { transform: scale(1)   translate(10px, -30px); }
@@ -91,4 +84,11 @@
       position: relative;
       right: 27px;
    }
+}
+
+.members{
+   display: flex;
+   flex-wrap: wrap;
+   padding: 5vw;
+   gap:3vw;
 }
