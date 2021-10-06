@@ -14,11 +14,26 @@ export const membersData = [
       linkedin: "",
     },
     {
+      name: "Aayush Girdhar",
+      quote: "member of ACM JUIT",
+      insta: "https://www.instagram.com/g.aayush_/",
+      github: "https://github.com/AayushG02",
+      linkedin: "https://www.linkedin.com/in/aayushgirdhar/",
+    },
+    {
+      name: "Abhinandan Thakur",
+      quote: "member",
+      insta: "",
+      github: "",
+      linkedin: "",
+    },
+      {
       name: "Divyansh Sehgal",
       quote: "Member",
       insta: "https://www.instagram.com/divyansh_sehgal/",
       github: "https://github.com/Divi03",
       linkedin: "https://www.linkedin.com/in/divyansh-sehgal-095293222/",
     },
+    
 
   ];
