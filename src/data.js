@@ -13,5 +13,12 @@ export const membersData = [
       github: "",
       linkedin: "",
     },
+    {
+      name: "Pranav Rajput",
+      quote: "member",
+      insta: "",
+      github: "",
+      linkedin: "",
+    },
     
   ];
