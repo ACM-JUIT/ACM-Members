@@ -3,7 +3,6 @@
 ## Running Locally
 
 Make sure you have [Node.js](http://nodejs.org/) installed.
-Also create the .env file and add environment variables as mentioned below.
 
 ```sh
 git clone https://github.com/ACM-JUIT/ACM-Members.git
