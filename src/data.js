@@ -13,5 +13,12 @@ export const membersData = [
       github: "",
       linkedin: "",
     },
+{
+      name: "Shubh Saxena",
+      quote: "Member",
+      insta: "https://www.instagram.com/_shubh.28/",
+      github: "https://github.com/shubh-28",
+      linkedin: "",
+    },
     
   ];
