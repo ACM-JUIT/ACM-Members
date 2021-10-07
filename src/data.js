@@ -21,4 +21,11 @@ export const membersData = [
       linkedin: "https://www.linkedin.com/in/aayushgirdhar/",
     },
     
+	{
+      name: "Ayush Pratap Singh",
+      quote: "member of ACM juit 2021 batch",
+      insta: "",
+      github: "",
+      linkedin: "",
+    },
   ];
