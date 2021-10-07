@@ -93,4 +93,11 @@ export const membersData = [
       linkedin: "https://alishasiddiqui.substack.com/",
 
     },
+    {
+      name: "Shivansh Mehrotra",
+      quote: "Member of ACM JUIT",
+      insta: "https://www.instagram.com/shivanshmehrotra_14",
+      github: "https://github.com/S-Mcode2hack",
+      linkedin: "https://www.linkedin.com/in/Shivansh-Mehrotra14",
+    },
   ];
