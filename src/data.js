@@ -14,6 +14,13 @@ export const membersData = [
       linkedin: "",
     },
     {
+      name: "Pranav Rajput",
+      quote: "member",
+      insta: "",
+      github: "",
+      linkedin: "",
+    },
+    {
       name: "Shubh Saxena",
       quote: "Member",
       insta: "https://www.instagram.com/_shubh.28/",
