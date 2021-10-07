@@ -6,6 +6,14 @@ export const membersData = [
       github: "https://github.com/bdab-x",
       linkedin: "https://www.linkedin.com/in/aarhan-k-62742b196/",
     },
+	{
+      name: "Aarhan Khan",
+      quote: "ahh yess again",
+      insta: "https://www.instagram.com/aarhan_._/",
+      github: "https://github.com/bdab-x",
+      linkedin: "https://www.linkedin.com/in/aarhan-k-62742b196/",
+    },
+	
 	  {
       name: "Ansh Agrawal",
       quote: "member",
@@ -98,6 +106,19 @@ export const membersData = [
       quote: "Member of ACM JUIT",
       insta: "https://www.instagram.com/sub_savage/",
       github: "https://github.com/subsavage",
+    },
+	{
+      name: "Vaibhav Sharma",
+      quote: "Member of ACM JUIT",
+      insta: "https://www.instagram.com/vaaibhavsharma/",
+      github: "https://github.com/vaaibhavsharma",
+      linkedin: "https://www.linkedin.com/in/vaaibhavsharma/",
+  },
+    {
+      name: "Kinzang Wangdi",
+      quote: "Member of ACM JUIT",
+      insta: "https://www.instagram.com/geek.beats/",
+      github: "https://github.com/geekbeats",
       linkedin: "",
     },
   ];
