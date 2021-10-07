@@ -41,6 +41,13 @@ export const membersData = [
       insta: "",
       github: "",
       linkedin: "",
+    },  
+     {
+      name: "Divyansh Sehgal",
+      quote: "Member",
+      insta: "https://www.instagram.com/divyansh_sehgal/",
+      github: "https://github.com/Divi03",
+      linkedin: "https://www.linkedin.com/in/divyansh-sehgal-095293222/",
     },
     {
       name: "Saumya Bansal",
