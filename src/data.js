@@ -101,6 +101,13 @@ export const membersData = [
       linkedin: "https://alishasiddiqui.substack.com/",
 
     },
+{
+      name: "Nilakshi sharma",
+      quote: "Member of ACM JUIT",
+      insta: "",
+      github: "",
+      linkedin: "",
+},
     {
       name: "SHIVANSH",
       quote: "Member of ACM JUIT",
