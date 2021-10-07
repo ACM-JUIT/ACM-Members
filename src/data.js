@@ -27,5 +27,12 @@ export const membersData = [
       github: "",
       linkedin: "",
     },
-    
+    {
+      name: "Paras Dhiman",
+      quote: "member of ACM JUIT",
+      insta: "https://www.instagram.com/i_._anonymous.re/",
+      github: "https://github.com/dhimanparas20",
+      linkedin: "https://www.linkedin.com/in/parasdhiman-211382/",
+    },
+
   ];
