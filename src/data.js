@@ -143,6 +143,13 @@ export const membersData = [
       github: "https://github.com/geekbeats",
       linkedin: "",
     },
+  {
+      name: "Aayush Gupta",
+      quote: "Member of ACM JUIT",
+      insta: "",
+      github: "",
+      linkedin: "",
+    },
     {
       name: "Aditya Bansal",
       quote: "member of ACM-JUIT",
