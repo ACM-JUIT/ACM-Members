@@ -50,6 +50,14 @@ export const membersData = [
       github: "https://github.com/AayushG02",
       linkedin: "https://www.linkedin.com/in/aayushgirdhar/",
     },
+	{
+      name: "Ayush Pratap Singh",
+      quote: "member of ACM juit 2021 batch",
+      insta: "",
+      github: "",
+      linkedin: "",
+    },
+ 
     {
       name: "Abhinandan Thakur",
       quote: "member",
