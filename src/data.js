@@ -85,4 +85,12 @@ export const membersData = [
       linkedin: "https://www.linkedin.com/in/Ajxfifa19/",
 
     },
+     {
+      name: "Alisha Siddiqui",
+      quote: "Member of ACM JUIT",
+      insta: "https://www.instagram.com/aswritessss/",
+      github: "https://github.com/aswritesssss",
+      linkedin: "https://alishasiddiqui.substack.com/",
+
+    },
   ];
