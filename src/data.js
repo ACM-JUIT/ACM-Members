@@ -50,6 +50,14 @@ export const membersData = [
       github: "https://github.com/AayushG02",
       linkedin: "https://www.linkedin.com/in/aayushgirdhar/",
     },
+	{
+      name: "Ayush Pratap Singh",
+      quote: "member of ACM juit 2021 batch",
+      insta: "",
+      github: "",
+      linkedin: "",
+    },
+ 
     {
       name: "Abhinandan Thakur",
       quote: "member",
@@ -101,6 +109,13 @@ export const membersData = [
       linkedin: "https://alishasiddiqui.substack.com/",
 
     },
+{
+      name: "Nilakshi sharma",
+      quote: "Member of ACM JUIT",
+      insta: "",
+      github: "",
+      linkedin: "",
+},
     {
       name: "SHIVANSH",
       quote: "Member of ACM JUIT",
@@ -128,11 +143,18 @@ export const membersData = [
       github: "https://github.com/geekbeats",
       linkedin: "",
     },
-{
+  {
       name: "Aayush Gupta",
       quote: "Member of ACM JUIT",
       insta: "",
       github: "",
       linkedin: "",
+    },
+    {
+      name: "Aditya Bansal",
+      quote: "member of ACM-JUIT",
+      insta: "",
+      github: "https://github.com/Aditya3403",
+      linkedin: "https://www.linkedin.com/in/aditya-bansal-036b36211/",
     },
   ];
