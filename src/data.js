@@ -94,7 +94,7 @@ export const membersData = [
 
     },
     {
-      name: "Shivansh Mehrotra",
+      name: "SHIVANSH MEHROTRA",
       quote: "Member of ACM JUIT",
       insta: "https://www.instagram.com/shivanshmehrotra_14",
       github: "https://github.com/S-Mcode2hack",
