@@ -163,4 +163,12 @@ export const membersData = [
       github: "https://github.com/aadya-21",
       linkedin: "",
     },
-  ];
+	
+    {
+      name: "Ansh Mehrotra",
+      quote: "Member of ACM",
+      insta: "https://www.instagram.com/ansh_._mehrotra/",
+      github: "https://github.com/mehrotra-ansh",
+      linkedin: "",
+    },
+  
