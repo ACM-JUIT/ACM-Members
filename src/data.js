@@ -163,4 +163,19 @@ export const membersData = [
       github: "https://github.com/aadya-21",
       linkedin: "",
     },
+  {
+      name: "Aarhan Khan",
+      quote: "developer of this site",
+      insta: "https://www.instagram.com/aarhan_._/",
+      github: "https://github.com/bdab-x",
+      linkedin: "https://www.linkedin.com/in/aarhan-k-62742b196/",
+    },
+  {
+      name: "Akhil Dhawan",
+      quote: "Member of ACM",
+      insta: "",
+      github: "",
+      linkedin: "",
+    },
+
   ];
