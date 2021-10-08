@@ -163,4 +163,11 @@ export const membersData = [
       github: "https://github.com/aadya-21",
       linkedin: "",
     },
+    {
+      name: "Kartikey Attri",
+      quote: "member of ACM",
+      insta: "https://www.instagram.com/attrikartikey/",
+      github: "https://github.com/attrikartikey",
+      linkedin: "",
+    },
   ];
