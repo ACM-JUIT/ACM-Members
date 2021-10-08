@@ -21,7 +21,7 @@ export const membersData = [
       github: "",
       linkedin: "",
     },
-    {
+  {
       name: "Pranav Rajput",
       quote: "member",
       insta: "",
@@ -156,5 +156,11 @@ export const membersData = [
       insta: "",
       github: "https://github.com/Aditya3403",
       linkedin: "https://www.linkedin.com/in/aditya-bansal-036b36211/",
+    },{
+      name: "Aadya Thakur",
+      quote: "member of ACM",
+      insta: "https://www.instagram.com/aadyathakur/",
+      github: "https://github.com/aadya-21",
+      linkedin: "",
     },
   ];
