@@ -192,11 +192,11 @@ export const membersData = [
     },
 
 {
-      name: "Malay Acharya",
+      name: "Malay Acharya",	
       quote: "hehe",
-      insta: "",
-      github: "",
-      linkedin: "",
+      insta: "sus",
+      github: "sus",
+      linkedin: "sus",
     }
 
   ];
