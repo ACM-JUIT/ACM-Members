@@ -176,6 +176,13 @@ export const membersData = [
       github: "https://github.com/attrikartikey",
       linkedin: "",
     },
+    {
+      name: "Raghav Bansal",
+      quote: "Member of site",
+      insta: "https://www.instagram.com/raghavbans_l/?hl=en",
+      github: "https://github.com/raghavbansal18",
+      linkedin: "https://www.linkedin.com/in/raghav-bansal-534888219/",
+    },
   {
       name: "Aarhan Khan",
       quote: "developer of this site",
