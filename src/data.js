@@ -162,5 +162,11 @@ export const membersData = [
       insta: "https://www.instagram.com/aadyathakur/",
       github: "https://github.com/aadya-21",
       linkedin: "",
+    },{
+      name: "Aayush Sharma",
+      quote: "Member of ACM-JUIT",
+      insta: "https://www.instagram.com/ayushsharma8952/",
+      github: "https://github.com/Aayush61000",
+      linkedin: "https://www.linkedin.com/in/ayush-sharma-567b59209/",
     },
   ];
