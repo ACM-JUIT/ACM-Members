@@ -218,5 +218,12 @@ export const membersData = [
       insta: "sus",
       github: "sus",
       linkedin: "sus",
-    }
+    },
+	 {
+      name: "Syed Mohammad Zaeem",
+      quote: "a member of ACM JUIT",
+      insta: "NA",
+      github: "NA",
+      linkedin: "NA",
+    },
   ];
