@@ -163,4 +163,11 @@ export const membersData = [
       github: "https://github.com/aadya-21",
       linkedin: "",
     },
+{
+      name: "Nitish Kumar Gupta",
+      quote: "Member of ACM-JUIT",
+      insta: "https://www.instagram.com/yr.nitish/",
+      github: "https://github.com/yr-nitish",
+      linkedin: "https://www.linkedin.com/in/nitish-gupta-6b017721a/",
+    },
   ];
