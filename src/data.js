@@ -21,7 +21,7 @@ export const membersData = [
       github: "",
       linkedin: "",
     },
-    {
+  {
       name: "Pranav Rajput",
       quote: "member",
       insta: "",
@@ -156,12 +156,60 @@ export const membersData = [
       insta: "",
       github: "https://github.com/Aditya3403",
       linkedin: "https://www.linkedin.com/in/aditya-bansal-036b36211/",
+    },{
+      name: "Aadya Thakur",
+      quote: "member of ACM",
+      insta: "https://www.instagram.com/aadyathakur/",
+      github: "https://github.com/aadya-21",
+      linkedin: "",
+    },{
+      name: "Aayush Sharma",
+      quote: "Member of ACM-JUIT",
+      insta: "https://www.instagram.com/ayushsharma8952/",
+      github: "https://github.com/Aayush61000",
+      linkedin: "https://www.linkedin.com/in/ayush-sharma-567b59209/",
     },
-   {
+    {
+      name: "Kartikey Attri",
+      quote: "member of ACM",
+      insta: "https://www.instagram.com/attrikartikey/",
+      github: "https://github.com/attrikartikey",
+      linkedin: "",
+    },
+  {
       name: "Arun Thakur",
       quote: "member of ACM-JUIT",
       insta: "https://www.instagram.com/_arunthakur_07/",
       github: "https://github.com/Arunthakur07",
       linkedin: "",
     },
+    {
+      name: "Raghav Bansal",
+      quote: "Member of site",
+      insta: "https://www.instagram.com/raghavbans_l/?hl=en",
+      github: "https://github.com/raghavbansal18",
+      linkedin: "https://www.linkedin.com/in/raghav-bansal-534888219/",
+    },
+  {
+      name: "Aarhan Khan",
+      quote: "developer of this site",
+      insta: "https://www.instagram.com/aarhan_._/",
+      github: "https://github.com/bdab-x",
+      linkedin: "https://www.linkedin.com/in/aarhan-k-62742b196/",
+    },
+  {
+      name: "Akhil Dhawan",
+      quote: "Member of ACM",
+      insta: "",
+      github: "",
+      linkedin: "",
+    },
+
+{
+      name: "Malay Acharya",	
+      quote: "hehe",
+      insta: "sus",
+      github: "sus",
+      linkedin: "sus",
+    }
   ];
