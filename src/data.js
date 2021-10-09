@@ -169,6 +169,13 @@ export const membersData = [
       github: "https://github.com/Aayush61000",
       linkedin: "https://www.linkedin.com/in/ayush-sharma-567b59209/",
     },
+{
+      name: "Nitish Kumar Gupta",
+      quote: "Member of ACM-JUIT",
+      insta: "https://www.instagram.com/yr.nitish/",
+      github: "https://github.com/yr-nitish",
+      linkedin: "https://www.linkedin.com/in/nitish-gupta-6b017721a/",
+    },
     {
       name: "Kartikey Attri",
       quote: "member of ACM",
