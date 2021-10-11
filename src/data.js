@@ -109,6 +109,14 @@ export const membersData = [
       linkedin: "https://alishasiddiqui.substack.com/",
 
     },
+     {
+      name: "Aparna Srivastava",
+      quote: "Member of ACM JUIT",
+      insta: "https://www.instagram.com/aparna._.25/",
+      github: "https://github.com/aparna2573",
+      linkedin: "https://www.linkedin.com/in/aparna-srivastava-44558221b/",
+
+    },
 {
       name: "Nilakshi sharma",
       quote: "Member of ACM JUIT",
