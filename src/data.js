@@ -6,6 +6,14 @@ export const membersData = [
       github: "https://github.com/bdab-x",
       linkedin: "https://www.linkedin.com/in/aarhan-k-62742b196/",
     },
+	{
+      name: "Aarhan Khan",
+      quote: "ahh yess again",
+      insta: "https://www.instagram.com/aarhan_._/",
+      github: "https://github.com/bdab-x",
+      linkedin: "https://www.linkedin.com/in/aarhan-k-62742b196/",
+    },
+	
 	  {
       name: "Ansh Agrawal",
       quote: "member",
@@ -13,7 +21,7 @@ export const membersData = [
       github: "",
       linkedin: "",
     },
-    {
+  {
       name: "Pranav Rajput",
       quote: "member",
       insta: "",
@@ -42,6 +50,14 @@ export const membersData = [
       github: "https://github.com/AayushG02",
       linkedin: "https://www.linkedin.com/in/aayushgirdhar/",
     },
+	{
+      name: "Ayush Pratap Singh",
+      quote: "member of ACM juit 2021 batch",
+      insta: "",
+      github: "",
+      linkedin: "",
+    },
+ 
     {
       name: "Abhinandan Thakur",
       quote: "member",
@@ -101,4 +117,121 @@ export const membersData = [
       linkedin: "https://www.linkedin.com/in/aparna-srivastava-44558221b/",
 
     },
+{
+      name: "Nilakshi sharma",
+      quote: "Member of ACM JUIT",
+      insta: "",
+      github: "",
+      linkedin: "",
+},
+    {
+      name: "SHIVANSH",
+      quote: "Member of ACM JUIT",
+      insta: "https://www.instagram.com/shivanshmehrotra_14",
+      github: "https://github.com/S-Mcode2hack",
+      linkedin: "https://www.linkedin.com/in/Shivansh-Mehrotra14",
+    },
+  {
+      name: " Harshit Srivastava",
+      quote: "Member of ACM JUIT",
+      insta: "https://www.instagram.com/sub_savage/",
+      github: "https://github.com/subsavage",
+    },
+	{
+      name: "Vaibhav Sharma",
+      quote: "Member of ACM JUIT",
+      insta: "https://www.instagram.com/vaaibhavsharma/",
+      github: "https://github.com/vaaibhavsharma",
+      linkedin: "https://www.linkedin.com/in/vaaibhavsharma/",
+  },
+    {
+      name: "Kinzang Wangdi",
+      quote: "Member of ACM JUIT",
+      insta: "https://www.instagram.com/geek.beats/",
+      github: "https://github.com/geekbeats",
+      linkedin: "",
+    },
+  {
+      name: "Aayush Gupta",
+      quote: "Member of ACM JUIT",
+      insta: "",
+      github: "",
+      linkedin: "",
+    },
+    {
+      name: "Aditya Bansal",
+      quote: "member of ACM-JUIT",
+      insta: "",
+      github: "https://github.com/Aditya3403",
+      linkedin: "https://www.linkedin.com/in/aditya-bansal-036b36211/",
+    },{
+      name: "Aadya Thakur",
+      quote: "member of ACM",
+      insta: "https://www.instagram.com/aadyathakur/",
+      github: "https://github.com/aadya-21",
+      linkedin: "",
+    },{
+      name: "Aayush Sharma",
+      quote: "Member of ACM-JUIT",
+      insta: "https://www.instagram.com/ayushsharma8952/",
+      github: "https://github.com/Aayush61000",
+      linkedin: "https://www.linkedin.com/in/ayush-sharma-567b59209/",
+    },
+{
+      name: "Nitish Kumar Gupta",
+      quote: "Member of ACM-JUIT",
+      insta: "https://www.instagram.com/yr.nitish/",
+      github: "https://github.com/yr-nitish",
+      linkedin: "https://www.linkedin.com/in/nitish-gupta-6b017721a/",
+    },
+    {
+      name: "Kartikey Attri",
+      quote: "member of ACM",
+      insta: "https://www.instagram.com/attrikartikey/",
+      github: "https://github.com/attrikartikey",
+      linkedin: "",
+    },
+  {
+      name: "Arun Thakur",
+      quote: "member of ACM-JUIT",
+      insta: "https://www.instagram.com/_arunthakur_07/",
+      github: "https://github.com/Arunthakur07",
+      linkedin: "",
+    },
+    {
+      name: "Raghav Bansal",
+      quote: "Member of site",
+      insta: "https://www.instagram.com/raghavbans_l/?hl=en",
+      github: "https://github.com/raghavbansal18",
+      linkedin: "https://www.linkedin.com/in/raghav-bansal-534888219/",
+    },
+  {
+      name: "Aarhan Khan",
+      quote: "developer of this site",
+      insta: "https://www.instagram.com/aarhan_._/",
+      github: "https://github.com/bdab-x",
+      linkedin: "https://www.linkedin.com/in/aarhan-k-62742b196/",
+    },
+  {
+      name: "Akhil Dhawan",
+      quote: "Member of ACM",
+      insta: "",
+      github: "",
+      linkedin: "",
+    },
+
+{
+      name: "Malay Acharya",	
+      quote: "hehe",
+      insta: "sus",
+      github: "sus",
+      linkedin: "sus",
+    },
+	{
+      name: "Rakshita jain",	
+      quote: "nice",
+      insta: "",
+      github: "",
+      linkedin: "",
+    }
   ];
