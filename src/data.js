@@ -241,4 +241,11 @@ export const membersData = [
       github: "https://github.com/vidushidwivedi",
       linkedin: "http://linkedin.com/in/vidushi-dwivedi-427a85222",
     },
+    {
+      name: "Ansh Mehrotra",
+      quote: "Member of ACM",
+      insta: "https://www.instagram.com/ansh_._mehrotra/",
+      github: "https://github.com/mehrotra-ansh",
+      linkedin: "",
+    },
   ];
