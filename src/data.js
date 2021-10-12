@@ -227,6 +227,13 @@ export const membersData = [
       github: "sus",
       linkedin: "sus",
     },
+	 {
+      name: "Syed Mohammad Zaeem  ",
+      quote: "a member of ACM JUIT",
+      insta: "NA",
+      github: "NA",
+      linkedin: "NA",
+    },
 	{
       name: "Rakshita jain",	
       quote: "nice",
