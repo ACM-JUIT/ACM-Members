@@ -233,5 +233,12 @@ export const membersData = [
       insta: "",
       github: "",
       linkedin: "",
-    }
+    },
+	 {
+      name: "Vidushi",
+      quote: "Member of ACM-JUIT",
+      insta: "https://www.instagram.com/vidushidwivedi_3/",
+      github: "https://github.com/vidushidwivedi",
+      linkedin: "http://linkedin.com/in/vidushi-dwivedi-427a85222",
+    },
   ];
