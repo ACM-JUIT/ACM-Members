@@ -227,6 +227,13 @@ export const membersData = [
       github: "sus",
       linkedin: "sus",
     },
+	 {
+      name: "Syed Mohammad Zaeem  ",
+      quote: "a member of ACM JUIT",
+      insta: "NA",
+      github: "NA",
+      linkedin: "NA",
+    },
 	{
       name: "Rakshita jain",	
       quote: "nice",
@@ -240,5 +247,19 @@ export const membersData = [
       insta: "bas",
       github: "bas",
       linkedin: "bas",
+    },
+	 {
+      name: "Vidushi",
+      quote: "Member of ACM-JUIT",
+      insta: "https://www.instagram.com/vidushidwivedi_3/",
+      github: "https://github.com/vidushidwivedi",
+      linkedin: "http://linkedin.com/in/vidushi-dwivedi-427a85222",
+    },
+    {
+      name: "Ansh Mehrotra",
+      quote: "Member of ACM",
+      insta: "https://www.instagram.com/ansh_._mehrotra/",
+      github: "https://github.com/mehrotra-ansh",
+      linkedin: "",
     },
   ];
