@@ -220,7 +220,7 @@ export const membersData = [
       linkedin: "sus",
     },
 	 {
-      name: "Syed Mohammad Zaeem",
+      name: "Syed Mohammad Zaeem  ",
       quote: "a member of ACM JUIT",
       insta: "NA",
       github: "NA",
