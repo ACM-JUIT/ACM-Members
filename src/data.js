@@ -93,4 +93,11 @@ export const membersData = [
       linkedin: "https://alishasiddiqui.substack.com/",
 
     },
+ {
+      name: "Shivansh",
+      quote: "Member",
+      insta: "https://www.instagram.com/_shivansh02_/",
+      github: "https://github.com/Shivansh0293",
+      linkedin: "",
+    },
   ];
