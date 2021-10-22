@@ -276,4 +276,11 @@ export const membersData = [
       github: "https://github.com/SwapnilTyagi01",
       linkedin: "https://www.linkedin.com/in/swapnil-tyagi-114383215/",
     },
+	{
+      name: "Abhishek Tyagi",
+      quote: "Member of ACM",
+      insta: "",
+      github: "",
+      linkedin: "",
+    },
   ];
