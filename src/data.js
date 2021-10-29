@@ -276,4 +276,11 @@ export const membersData = [
       github: "https://github.com/SwapnilTyagi01",
       linkedin: "https://www.linkedin.com/in/swapnil-tyagi-114383215/",
     },
+    {
+      name: "Moulik Chaturvedi",
+      quote: "Member of ACM-JUIT",
+      insta: "https://www.instagram.com/multidimensionalspacesnake/",
+      github: "https://github.com/moulikchaturvedi",
+      linkedin: "https://www.linkedin.com/in/moulikchaturvedi/",
+    }
   ];
