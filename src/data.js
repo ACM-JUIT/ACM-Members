@@ -109,6 +109,13 @@ export const membersData = [
       linkedin: "https://alishasiddiqui.substack.com/",
 
     },
+ {
+      name: "Shivansh",
+      quote: "Member",
+      insta: "https://www.instagram.com/_shivansh02_/",
+      github: "https://github.com/Shivansh0293",
+      linkedin: "",
+    },
      {
       name: "Aparna Srivastava",
       quote: "Member of ACM JUIT",
@@ -227,6 +234,13 @@ export const membersData = [
       github: "sus",
       linkedin: "sus",
     },
+	 {
+      name: "Syed Mohammad Zaeem  ",
+      quote: "a member of ACM JUIT",
+      insta: "NA",
+      github: "NA",
+      linkedin: "NA",
+    },
 	{
       name: "Rakshita jain",	
       quote: "nice",
@@ -240,5 +254,40 @@ export const membersData = [
       insta: "https://www.instagram.com/avi_._/",
       github: "",
       linkedin: "",
+  },
+	{
+      name: "Rishabh",
+      quote: "dil chahta hai",
+      insta: "bas",
+      github: "bas",
+      linkedin: "bas",
+    },
+	 {
+      name: "Vidushi",
+      quote: "Member of ACM-JUIT",
+      insta: "https://www.instagram.com/vidushidwivedi_3/",
+      github: "https://github.com/vidushidwivedi",
+      linkedin: "http://linkedin.com/in/vidushi-dwivedi-427a85222",
+    },
+    {
+      name: "Ansh Mehrotra",
+      quote: "Member of ACM",
+      insta: "https://www.instagram.com/ansh_._mehrotra/",
+      github: "https://github.com/mehrotra-ansh",
+      linkedin: "",
+    },
+{
+      name: "Swapnil Tyagi",
+      quote: "Member of ACM-JUIT",
+      insta: "https://www.instagram.com/swapnil_tyagi01/",
+      github: "https://github.com/SwapnilTyagi01",
+      linkedin: "https://www.linkedin.com/in/swapnil-tyagi-114383215/",
+    },
+    {
+      name: "Moulik Chaturvedi",
+      quote: "Member of ACM-JUIT",
+      insta: "https://www.instagram.com/multidimensionalspacesnake/",
+      github: "https://github.com/moulikchaturvedi",
+      linkedin: "https://www.linkedin.com/in/moulikchaturvedi/",
     }
   ];
