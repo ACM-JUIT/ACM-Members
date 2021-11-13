@@ -248,6 +248,13 @@ export const membersData = [
       github: "",
       linkedin: "",
     },
+  {
+      name: "Avi Jaiswal",
+      quote: "kjvug",
+      insta: "https://www.instagram.com/avi_._/",
+      github: "",
+      linkedin: "",
+  },
 	{
       name: "Rishabh",
       quote: "dil chahta hai",
