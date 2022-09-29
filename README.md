@@ -1,4 +1,4 @@
-# [ACM-MEMBERS](https://members.acmjuit.tech/) 
+# [ACM-MEMBERS](https://acmjuit-members.netlify.app/) 
 
 
 ## Make Your Contribution
