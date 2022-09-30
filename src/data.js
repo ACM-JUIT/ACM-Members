@@ -275,5 +275,12 @@ export const membersData = [
       insta: "https://www.instagram.com/multidimensionalspacesnake/",
       github: "https://github.com/moulikchaturvedi",
       linkedin: "https://www.linkedin.com/in/moulikchaturvedi/",
+    },
+    {
+      name: "Dev Pratap Tyagi",
+      quote: "Ex-Chairperson of ACM-JUIT",
+      insta: "https://www.instagram.com/_devtyagi_/",
+      github: "https://github.com/devptyagi",
+      linkedin: "https://www.linkedin.com/in/devtyagi/",
     }
   ];
