@@ -20,4 +20,11 @@ export const membersData = [
     github: "https://github.com/devptyagi",
     linkedin: "https://www.linkedin.com/in/devtyagi/",
   },
+  {
+    name : "Varsha Singh",
+    quote: "Member of ACM-JUIT",
+    insta: "",
+    github: "https://github.com/hsteg420",
+    linkedin: "https://www.linkedin.com/in/varsha-singh-a823ab1b0/",
+  },
 ];
