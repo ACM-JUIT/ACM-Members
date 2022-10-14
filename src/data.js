@@ -157,4 +157,11 @@ export const membersData = [
       github: "https://github.com/Aditya3403",
       linkedin: "https://www.linkedin.com/in/aditya-bansal-036b36211/",
     },
+    {
+      name: "Aayush Gupta",
+      quote: "Member",
+      insta: "",
+      github: "https://github.com/aayush3003",
+      linkedin: "",
+    },
   ];
