@@ -20,4 +20,14 @@ export const membersData = [
     github: "https://github.com/devptyagi",
     linkedin: "https://www.linkedin.com/in/devtyagi/",
   },
+
+  {
+    name: "Animesh Singh",
+    quote: "I am a developer of this site",
+    insta: "https://www.instagram.com/animesh_0764/",
+    github: "https://github.com/Animesh0764",
+    linkedin: "https://www.linkedin.com/in/animesh-singh-93bb69251/",
+  },
+
+  
 ];
