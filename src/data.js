@@ -14,13 +14,33 @@ export const membersData = [
     linkedin: "https://www.linkedin.com/in/aarhan-k-62742b196/",
   },
   {
+    name: "Aayush Gupta",
+    quote: "Member of ACM JUIT",
+    insta: "",
+    github: "",
+    linkedin: "",
+  },
+  {
+      name: "Aditya Bansal",
+      quote: "member of ACM-JUIT",
+      insta: "",
+      github: "https://github.com/Aditya3403",
+      linkedin: "https://www.linkedin.com/in/aditya-bansal-036b36211/",
+  },
+  {
+      name: "Aayush Gupta",
+      quote: "Member",
+      insta: "",
+      github: "https://github.com/aayush3003",
+      linkedin: "",
+  },
+  {
     name: "Dev Pratap Tyagi",
     quote: "Ex-Chairperson of ACM-JUIT",
     insta: "https://www.instagram.com/_devtyagi_/",
     github: "https://github.com/devptyagi",
     linkedin: "https://www.linkedin.com/in/devtyagi/",
   },
-
   {
     name: "Animesh Singh",
     quote: "I am a developer of this site",
@@ -28,6 +48,4 @@ export const membersData = [
     github: "https://github.com/Animesh0764",
     linkedin: "https://www.linkedin.com/in/animesh-singh-93bb69251/",
   },
-
-  
 ];
