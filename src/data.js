@@ -55,4 +55,11 @@ export const membersData = [
     github: "https://github.com/Chaitanya3107",
     linkedin: "",
   },
+  {
+    name: "Abhay Latiyan",
+    quote: "I am a contributer of this site",
+    insta: "https://www.instagram.com/abhaylatiyan/",
+    github: "https://github.com/AbhayLatiyan",
+    linkedin: "https://www.linkedin.com/in/abhay-latiyan-a1b796251/",
+  },
 ];
