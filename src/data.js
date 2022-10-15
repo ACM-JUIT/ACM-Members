@@ -48,4 +48,11 @@ export const membersData = [
     github: "https://github.com/Animesh0764",
     linkedin: "https://www.linkedin.com/in/animesh-singh-93bb69251/",
   },
+  {
+    name: "Chaitanya Anchal",
+    quote: "Member of ACM-JUIT",
+    insta: "",
+    github: "https://github.com/Chaitanya3107",
+    linkedin: "",
+  },
 ];
