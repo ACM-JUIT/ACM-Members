@@ -55,4 +55,12 @@ export const membersData = [
     github: "https://github.com/Chaitanya3107",
     linkedin: "",
   },
+  {
+    name: "SRIJAN SARASWAT",
+    quote: "Member of ACM-JUIT",
+    insta: "https://www.instagram.com/__.srijan_saraswat.__/",
+    github: "https://github.com/SRIJANSARASWAT",
+    linkedin: "https://www.linkedin.com/in/srijan-saraswat-a00b63251/",
+    
+  }
 ];
