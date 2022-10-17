@@ -56,11 +56,17 @@ export const membersData = [
     linkedin: "",
   },
   {
+    name: "Abhay Latiyan",
+    quote: "I am a contributer of this site",
+    insta: "https://www.instagram.com/abhaylatiyan/",
+    github: "https://github.com/AbhayLatiyan",
+    linkedin: "https://www.linkedin.com/in/abhay-latiyan-a1b796251/",
+  },
+  {
     name: "SRIJAN SARASWAT",
     quote: "Member of ACM-JUIT",
     insta: "https://www.instagram.com/__.srijan_saraswat.__/",
     github: "https://github.com/SRIJANSARASWAT",
-    linkedin: "https://www.linkedin.com/in/srijan-saraswat-a00b63251/",
-    
+    linkedin: "https://www.linkedin.com/in/srijan-saraswat-a00b63251/", 
   }
 ];
