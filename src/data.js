@@ -18,6 +18,7 @@ export const membersData = [
     quote: "Member ACM JUIT",
     insta: "https://www.instagram.com/malayacharyaa/",
     github: "https://github.com/Malay-Acharya",
+    linkedin: "https://www.linkedin.com/in/malay-acharya/",
   },
   {
     name: "Aayush Gupta",
