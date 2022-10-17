@@ -16,6 +16,8 @@ export const membersData = [
   {
     name: "Malay Acharya",
     quote: "Member ACM JUIT",
+    insta: "https://www.instagram.com/malayacharyaa/",
+    
   },
   {
     name: "Aayush Gupta",
