@@ -14,6 +14,10 @@ export const membersData = [
     linkedin: "https://www.linkedin.com/in/aarhan-k-62742b196/",
   },
   {
+    name: "Malay Acharya",
+    quote: "Member ACM JUIT",
+  },
+  {
     name: "Aayush Gupta",
     quote: "Member of ACM JUIT",
     insta: "",
