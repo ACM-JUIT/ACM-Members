@@ -28,6 +28,13 @@ export const membersData = [
     linkedin: "",
   },
   {
+    name: "Manav Lukar",
+    quote: "Member of ACM-JUIT",
+    insta: "https://www.instagram.com/_esoteric.manav_/",
+    github: "https://github.com/Manav-Lukar",
+    linkedin: "https://www.linkedin.com/in/manav-lukar-a25125224/",
+  },
+  {
       name: "Aditya Bansal",
       quote: "member of ACM-JUIT",
       insta: "",
