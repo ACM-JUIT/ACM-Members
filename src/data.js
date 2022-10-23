@@ -283,4 +283,12 @@ export const membersData = [
       github: "https://github.com/devptyagi",
       linkedin: "https://www.linkedin.com/in/devtyagi/",
     }
+    {
+      name: "Shreetej Kumar Das",
+      quote: "Member of ACM-JUIT",
+      insta: "https://www.instagram.com/shreetejkd/",
+      github: "https://github.com/shreetejkumard",
+      linkedin: "https://www.linkedin.com/in/shreetejkumardas/",
+    }
+
   ];
