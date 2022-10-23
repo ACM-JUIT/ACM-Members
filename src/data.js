@@ -77,6 +77,20 @@ export const membersData = [
     linkedin: "https://www.linkedin.com/in/srijan-saraswat-a00b63251/", 
   },
   {
+    name: "Heemank Dahiya",
+    quote: "I am a contributer of this site",
+    insta: "https://www.instagram.com/heemankdahiya7171/",
+    github: "https://github.com/heemank",
+    linkedin: "",
+},
+{
+  name: "Heemank Dahiya",
+  quote: "I am a contributer of this site",
+  insta: "https://www.instagram.com/heemankdahiya7171/",
+  github: "https://github.com/heemank",
+  linkedin: "i don't have",
+},
+  {
     name: "Vansh Verma",
     quote: "Member of ACM-JUIT",
     insta: "https://www.instagram.com/vanshverma282/",
