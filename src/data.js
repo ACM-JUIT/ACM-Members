@@ -282,7 +282,7 @@ export const membersData = [
       insta: "https://www.instagram.com/_devtyagi_/",
       github: "https://github.com/devptyagi",
       linkedin: "https://www.linkedin.com/in/devtyagi/",
-    }
+    },
     {
       name: "Shreetej Kumar Das",
       quote: "Member of ACM-JUIT",
