@@ -20,6 +20,13 @@ export const membersData = [
     github: "https://github.com/Malay-Acharya",
     linkedin: "https://www.linkedin.com/in/malay-acharya/",
   },
+  { 
+  name: "Harshit Srivastava", 
+  quote: "Member of ACM-JUIT", 
+  insta: "https://www.instagram.com/sub_savage/", 
+  github: "https://github.com/subsavage", 
+  linkedin: "https://www.linkedin.com/in/harshit-srivastava-b71980233/", 
+  },
   {
     name: "Aayush Gupta",
     quote: "Member of ACM JUIT",
