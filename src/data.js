@@ -75,5 +75,12 @@ export const membersData = [
     insta: "https://www.instagram.com/__.srijan_saraswat.__/",
     github: "https://github.com/SRIJANSARASWAT",
     linkedin: "https://www.linkedin.com/in/srijan-saraswat-a00b63251/", 
-  }
+  },
+  {
+    name: "Vansh Verma",
+    quote: "Member of ACM-JUIT",
+    insta: "https://www.instagram.com/vanshverma282/",
+    github: "https://github.com/vanshverma17",
+    linkedin: "https://www.linkedin.com/in/vansh-verma-8a4406251/",
+  },
 ];
