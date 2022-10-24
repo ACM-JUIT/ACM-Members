@@ -105,6 +105,13 @@ export const membersData = [
     linkedin: "https://www.linkedin.com/in/vansh-verma-8a4406251/",
   },
   {
+    name: "Srishti Sonam",
+    quote: "Member of ACM-JUIT",
+    insta: "https://www.instagram.com/srishti.sonam.11/",
+    github: "https://github.com/SrishtiSonam",
+    linkedin: "https://www.linkedin.com/in/srishti-s-4ab813249/",
+  },
+  {
     name: "Aditya Kumar",
     quote: "Member of ACM-JUIT",
     insta: "https://www.instagram.com/adk21504/",
