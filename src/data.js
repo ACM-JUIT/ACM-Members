@@ -105,10 +105,10 @@ export const membersData = [
     linkedin: "https://www.linkedin.com/in/vansh-verma-8a4406251/",
   },
   {
-    name: "Aditya Kumar",
-    quote: "Member of ACM-JUIT",
-    insta: "https://www.instagram.com/adk21504/",
-    github: "https://github.com/Adityak215",
-    linkedin: "https://www.linkedin.com/in/aditya-kumar-b3185024a/",
+	  name: "Dhruv Sachdev",
+	  quote: "Member of ACM-JUIT",
+	  insta: "https://www.instagram.com/dhruvvsachdev",
+	  github: "https://github.com/dhruvvsachdev",
+	  linkedin: "https://www.linkedin.com/in/dhruv-sachdev-981467250"
   },
 ];
