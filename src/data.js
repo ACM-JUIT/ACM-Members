@@ -111,4 +111,11 @@ export const membersData = [
     github: "https://github.com/Adityak215",
     linkedin: "https://www.linkedin.com/in/aditya-kumar-b3185024a/",
   },
+  {
+    name: "Priyanshi Jain",
+    quote: "Member of ACM-JUIT",
+    insta: "https://www.instagram.com/jain_priyanshii/",
+    github: "https://github.com/priyanshij0504",
+    linkedin: "https://www.linkedin.com/in/priyanshi-jain-97269a213/",
+  },
 ];
