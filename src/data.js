@@ -111,4 +111,11 @@ export const membersData = [
     github: "https://github.com/Adityak215",
     linkedin: "https://www.linkedin.com/in/aditya-kumar-b3185024a/",
   },
+  {
+    name: "Arpita Rani",
+    quote: "Member of ACM-JUIT",
+    insta: "https://www.instagram.com/arpita_1501/",
+    github: "https://github.com/arpita1501",
+    linkedin: "https://www.linkedin.com/in/arpita-bansal-35b167252/",
+  },
 ];
